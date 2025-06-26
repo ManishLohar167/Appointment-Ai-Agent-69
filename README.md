@@ -1,2 +1,3 @@
-# Appointment-Ai-Agent-69
-Ai booking calender
+# Appointment AI Agent
+
+This project is a Streamlit + LangGraph based chatbot for booking appointments via Google Calendar.
